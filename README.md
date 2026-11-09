@@ -8,11 +8,9 @@
 ---
 
 ## 👨‍💻 Intern Profile
-- **Intern Name:** `[Your Full Name]`
+- **Intern Name:** C K Yogitha`
 - **Domain Track:** Data Analytics
-- **Batch / Cohort:** `[Your Cohort / Month]`
-- **GitHub Repository:** `https://github.com/[YourUsername]/OIBSIP`
-- **LinkedIn Profile:** `[Your LinkedIn Profile Link]`
+- **GitHub Repository:** `https://github.com/yogithadowd2005-1508/qasis-data-analytics`
 
 ---
 
@@ -160,16 +158,3 @@ Grateful to Oasis Infobyte for this enriching learning experience! 🌟
 
 #oasisinfobyte #dataanalytics #datascience #python #machinelearning #internship #oibsip
 ```
-
----
-
-## 👥 Peer Evaluation Checklist (PDF Step 6 Requirement)
-- [ ] Watch LinkedIn demo videos of at least 2 cohort peers.
-- [ ] Post a constructive, substantive comment on each (ask a question or provide analytical observations).
-- [ ] Save screenshot evidence for your final submission form.
-
----
-
-## 📬 Final Task Submission Form (PDF Step 7)
-When the submission form opens, submit your public GitHub repository URL:
-`https://github.com/[YourUsername]/OIBSIP`
