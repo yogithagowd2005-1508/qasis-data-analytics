@@ -116,14 +116,6 @@ python run_all_tasks.py
 
 ---
 
-## 🎥 Video Demo Submission Guide (PDF Step 4 Requirement)
-
-Per the **Master Onboarding Checklist (Section 1.2, Step 4 & 1.3)**:
-> ⚠️ **Video Title Card:** *The first 2 seconds of each demo video MUST show a static title card containing:*
-> 1. Your Full Name
-> 2. Your Assigned Track (Data Analytics)
-> 3. The Task Title
-
 ### Pre-Generated 2-Second Title Cards
 Ready-to-use 1080p title card assets are located inside each project's directory:
 - Task 1: `DataAnalytics-L1-EDARetailSales/plots/title_card_task1.png`
@@ -137,24 +129,3 @@ python create_title_cards.py
 ```
 
 ---
-
-## 📢 LinkedIn Post Submission Templates (PDF Step 5 Requirement)
-
-When posting your walkthrough video to LinkedIn, tag **Oasis Infobyte** and include the mandatory hashtags:
-
-```text
-🚀 Thrilled to share my project completed during the OASIS INFOBYTE Summer Internship Program (OIBSIP)!
-
-Domain Track: Data Analytics
-Project: [Project Name - e.g., Exploratory Data Analysis on Retail Sales Data]
-GitHub Repository: https://github.com/[YourUsername]/OIBSIP
-
-In this project, I:
-• Analyzed 2,500+ transactional records using Python, Pandas, and Seaborn.
-• Uncovered customer demographics, sales seasonality, and category profit margins.
-• Formulated actionable data-driven recommendations for commercial growth.
-
-Grateful to Oasis Infobyte for this enriching learning experience! 🌟
-
-#oasisinfobyte #dataanalytics #datascience #python #machinelearning #internship #oibsip
-```
