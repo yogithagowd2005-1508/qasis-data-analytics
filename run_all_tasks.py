@@ -1,6 +1,9 @@
 """
 OASIS INFOBYTE — SIP (Summer Internship Program)
+Intern: C K Yogitha | Intern ID: OIB/O2/IP3782
 Track: Data Analytics
+GitHub: https://github.com/yogithagowd2005-1508/qasis-data-analytics
+LinkedIn: https://www.linkedin.com/in/c-k-yogitha-187129295
 Master Automation Runner: Executes all completed tasks end-to-end
 """
 
